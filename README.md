@@ -23,7 +23,7 @@ There undoubtedly are some technical constraints, which might have led Mojang to
 ![Mace](https://github.com/Nogard-YT/repo/blob/main/Mace_3D_RP_Java/images/2d_to_3d.png)
 
 Even the Java version of this resource pack is available in two types. The first option (recommended) exclusively adds a 3D model to the Mace. Which means that it will be compatible with just Snapshot 24W11A or higher.  
-However, I aimed to allow players on older versions to enjoy the Mace as well. Therefore, I created the second version, which integrates the Mace as custom model data of a stone sword, as well as it makes the vanilla Mace 3D, in case you would be playing on newer versions. This way, you can use the 3D Mace on any version of Minecraft Java. Keep in mind, that it's solely a resource pack, so don't expect the Mace functionality to work on versions prior to Snapshot 24W11A. Generally, speaking it's recommended to download the first version.  
+However, I aimed to allow players on older versions to enjoy the Mace as well. Therefore, I created the second version, which integrates the Mace as custom model data of a stone sword, as well as it still makes the vanilla Mace 3D. This way, you can use the 3D Mace on any version of Minecraft Java. Keep in mind, that it's solely a resource pack, so don't expect the Mace functionality to work on versions prior to Snapshot 24W11A. Generally, speaking it's recommended to download the first version.  
 
 ## Custom Model Data
 In case you opt to download the second version of the resource pack, you can use the following custom model data numbers to obtain the Mace in your world.  
@@ -67,4 +67,4 @@ Twitter: [@Nogard_YT](https://twitter.com/@Nogard_YT)
 
 ## Download
 Mace 3D RP (recommended): https://github.com/Nogard-YT/Mace_3D_RP_Java/releases/tag/v1.0.0  
-Mace 3D RP (custom model data): 
+Mace 3D RP (custom model data): https://github.com/Nogard-YT/Mace_3D_RP_Java/releases/tag/v1.0.0_custom_model_data  
