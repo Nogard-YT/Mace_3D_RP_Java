@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld_mace_2d",
+  "textures": {
+    "layer0": "minecraft:item/mace_2d"
+  }
+}
