@@ -1,4 +1,3 @@
-
 # Mace 3D RP
 This resource pack enhances the Mace by giving it a 3D model! The Mace is a new weapon added to Minecraft Java Snapshot 24W11A. For consistency reasons, Mojang decided to make the Mace a 2D item. However, many people wish it had a 3D model instead. Which is the reason, why I created this resource pack. And I made it for both Minecraft universes - [Bedrock](https://github.com/Nogard-YT/Mace_3D_RP_Bedrock) and Java!
 
