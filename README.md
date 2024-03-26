@@ -33,6 +33,7 @@ In case you opt to download the second version of the resource pack, you can use
 custom_item_name
 vanilla_item_override: custom_model_data_number
 command: give_command
+new_command: give_command (Snapshot 24w12a and higher)
 ```
 
 ### List
@@ -40,10 +41,12 @@ command: give_command
 mace_2d (vanilla)
 stone_sword: 1
 command: /give @s stone_sword{CustomModelData:1}
+new_command: /give @s stone_sword[custom_model_data=1]
 
 mace_3d (custom)
 stone_sword: 2
 command: /give @s stone_sword{CustomModelData:2}
+new_command: /give @s stone_sword[custom_model_data=2]
 ```
 
 ## License Terms
