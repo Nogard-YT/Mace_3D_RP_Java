@@ -65,7 +65,7 @@ Twitter: [@Nogard_YT](https://twitter.com/@Nogard_YT)
 5. Enable the `Mace_3D_RP.zip` in the world or global settings.
 6. Enjoy! (You can extract the archive as well, instead of using `.zip`.)  
 
-## Download
+## Download (Minecraft Java)
 Mace 3D RP (recommended): https://github.com/Nogard-YT/Mace_3D_RP_Java/releases/tag/v1.0.0  
 Mace 3D RP (custom model data): https://github.com/Nogard-YT/Mace_3D_RP_Java/releases/tag/v1.0.0_custom_model_data  
 
