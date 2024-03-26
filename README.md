@@ -11,7 +11,7 @@ Creator: **Nogard** ([Twitter](https://twitter.com/Nogard_YT),
 ## A new weapon - the Mace
 Mace is a truly high-risk, high-reward weapon. It can deal crazy amounts of damage, but only if you time things perfectly. For example, you need to land from a height of 100 blocks to kill Warden on a single hit. And that's not all; if you manage to actually hit the mob before landing, you won't take any fall damage. Doesn't that sound completely insane already? Well, guess what, you can kill Wither and Ender Dragon on a single hit too! But ummm, don't forget to bring some totems of undying for the missed attempts, hehe.
 
-![Mace](https://github.com/Nogard-YT/repo/blob/main/Mace_3D_RP_Java/images/ender_dragon_elytra.png.png)
+![Mace](https://github.com/Nogard-YT/repo/blob/main/Mace_3D_RP_Java/images/ender_dragon_elytra.png)
 
 Mace was introduced in [Snapshot 24W11A](https://www.minecraft.net/en-us/article/minecraft-snapshot-24w11a) to Minecraft Java, and in [Minecraft Bedrock Beta & Preview - 1.20.80.22](https://www.minecraft.net/en-us/article/minecraft-preview-1-20-80-22), both released on March 14th, 2024. Therefore, it's essential to be on either of these versions or higher respectively to be able to use this resource pack. Additionally, don't forget to turn on experiments for your world. In Minecraft Java you can enable them under "More" tab when creating a world. Then under "Experiments" button, where you can toggle "Update 1.21" on. 
 
@@ -63,5 +63,5 @@ Twitter: [@Nogard_YT](https://twitter.com/@Nogard_YT)
 6. Enjoy! (You can extract the archive as well, instead of using `.zip`.)  
 
 ## Download
-Mace 3D RP (recommended):  
+Mace 3D RP (recommended): https://github.com/Nogard-YT/Mace_3D_RP_Java/releases/tag/v1.0.0  
 Mace 3D RP (custom model data): 
