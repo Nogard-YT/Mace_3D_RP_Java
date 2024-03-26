@@ -59,7 +59,7 @@ Email: nogmcpe@gmail.com
 Discord: Nogard#9634 (nogcube)  
 Twitter: [@Nogard_YT](https://twitter.com/@Nogard_YT)
 
-## Intallation
+## Installation
 1. Download the resource pack `.zip` archive.
 2. Add the archive into `.minecraft/resourcepacks` folder.
 5. Enable the `Mace_3D_RP.zip` in the world or global settings.
