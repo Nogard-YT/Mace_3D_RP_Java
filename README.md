@@ -54,7 +54,7 @@ You're allowed to record videos and take screenshots of this work. You may share
 
 **Nogard**
 
-Contacts: 
+Contacts:  
 Email: nogmcpe@gmail.com  
 Discord: Nogard#9634 (nogcube)  
 Twitter: [@Nogard_YT](https://twitter.com/@Nogard_YT)
