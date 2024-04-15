@@ -18,7 +18,7 @@ Mace was introduced in [Snapshot 24W11A](https://www.minecraft.net/en-us/article
 ![Mace](https://github.com/Nogard-YT/repo/blob/main/Mace_3D_RP_Java/images/screenshot.png)
 
 ## Why is it not 3D by default?
-There undoubtedly are some technical constraints, which might have led Mojang to make the Mace a 2D item instead of creating a 3D model for it. One of these might be the player swiping animation on Bedrock, as it requires changes in player animation files to make it look like an actual weapon. Another could be an enchantment layer material and render controller for attachables. But mainly, I believe it's because all the weapons in Minecraft have always been 2D, so it wouldn't make much sense to make the new weapon 3D. And I do agree with Mojang on this. Despite that, I personally find it look way better when it's 3D, and I'm sure that many players will agree with me as well.
+There undoubtedly are some technical constraints, which might have led Mojang to make the Mace a 2D item instead of creating a 3D model for it. One of these might be the player swiping animation on Bedrock, as it requires changes in player animation files to make it look like an actual weapon. But mainly, I believe it's because all the weapons in Minecraft have always been 2D, so it wouldn't make much sense to make the new weapon 3D. And I do agree with Mojang on this. Despite that, I personally find it look way better when it's 3D, and I'm sure that many players will agree with me as well.
 
 ![Mace](https://github.com/Nogard-YT/repo/blob/main/Mace_3D_RP_Java/images/2d_to_3d.png)
 
